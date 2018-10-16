@@ -19,6 +19,6 @@
   },
   "homepage": "http://pcy8282.github.io/movie-app",
   "devDependencies": {
-    "gh-pages": "^1.0.0"
+    "gh-pages": "^1.2.0"
   }
 }
